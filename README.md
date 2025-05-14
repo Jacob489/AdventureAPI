@@ -36,14 +36,14 @@ This Bash script interacts with the Adventure API to create an interactive text-
 1. Make the script executable: (First time only)
 
 ```
-chmod +x team_assignment.sh
+chmod +x adventure.sh
 ```
 
 
 2. Run the script (Every time)
 ```
 
-./team_assignment.sh
+./adventure.sh
 ```
 3. If the adventure ends, re-run command #2 to launch the adventure from the beginning
 
