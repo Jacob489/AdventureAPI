@@ -37,6 +37,7 @@ Make the script executable:
 ```
 chmod +x team_assignment.sh
 ```
+Run the script:
 2. (Every time)
 ```
 ./team_assignment.sh
