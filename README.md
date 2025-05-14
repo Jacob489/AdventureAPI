@@ -32,14 +32,17 @@ This Bash script interacts with the Adventure API to create an interactive text-
 * jq (Optional): Although jq is not strictly required, it is used to parse and format the API responses for better readability.
  
 # To run, type these commands in bash:
-Make the script executable:
-1. (First time only)
+
+1. Make the script executable: (First time only)
+
 ```
 chmod +x team_assignment.sh
 ```
-Run the script:
-2. (Every time)
+
+
+2. Run the script (Every time)
 ```
+
 ./team_assignment.sh
 ```
 3. If the adventure ends, re-run command #2 to launch the adventure from the beginning
