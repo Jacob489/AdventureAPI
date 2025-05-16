@@ -1,8 +1,8 @@
-#!/bin/bash
+l.#!/bin/bash
 
 # Adventure Client Script - Interactive Adventure Flow
 # Requirements: curl, jq
-# Name: team_assignment.sh
+# Name: adventure.sh
 
 API_URL="https://adventure-api-673835650363.us-west1.run.app"
 ADVENTURE_NAME="brookmere-may6-0704pm"
